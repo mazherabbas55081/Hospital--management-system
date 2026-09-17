@@ -434,28 +434,28 @@ HOSPITAL = {
 
 DEPARTMENTS = {
     "Cardiology": {"icon": "❤️", "desc": "Heart & cardiovascular care, ECG, Angiography", "head": "Dr. Ahmed Khan"},
-    "Neurology": {"icon": "🧠", "desc": "Brain, spine & nervous system treatments", "head": "Dr. Sana Malik"},
-    "Orthopedics": {"icon": "🦴", "desc": "Bones, joints & sports injuries", "head": "Dr. Bilal Raza"},
+    "Neurology": {"icon": "🧠", "desc": "Brain, spine & nervous system treatments", "head": "Dr. Saniah Malik"},
+    "Orthopedics": {"icon": "🦴", "desc": "Bones, joints & sports injuries", "head": "Dr. Hammad Arain"},
     "Pediatrics": {"icon": "👶", "desc": "Child healthcare, vaccination & growth", "head": "Dr. Hina Shah"},
     "Gynecology": {"icon": "👩‍⚕️", "desc": "Women's health, maternity & prenatal care", "head": "Dr. Ayesha Siddiqui"},
     "Emergency": {"icon": "🚑", "desc": "24/7 emergency & trauma care", "head": "Dr. Usman Tariq"},
-    "Dermatology": {"icon": "🧴", "desc": "Skin, hair & cosmetic treatments", "head": "Dr. Fatima Noor"},
+    "Dermatology": {"icon": "🧴", "desc": "Skin, hair & cosmetic treatments", "head": "Dr. Saliha Tabasum"},
     "ENT": {"icon": "👂", "desc": "Ear, nose & throat specialists", "head": "Dr. Kamran Ali"},
     "Oncology": {"icon": "🎗️", "desc": "Cancer diagnosis & treatment", "head": "Dr. Zara Sheikh"},
-    "Radiology": {"icon": "🩻", "desc": "X-Ray, MRI, CT Scan & Ultrasound", "head": "Dr. Imran Qureshi"},
+    "Radiology": {"icon": "🩻", "desc": "X-Ray, MRI, CT Scan & Ultrasound", "head": "Dr. Abid Nawaz"},
 }
 
 DOCTORS = [
     {"name": "Dr. Ahmed Khan", "dept": "Cardiology", "days": "Mon, Wed, Fri", "time": "9:00 AM - 2:00 PM", "fee": 2000, "exp": "18 years", "img": "assets/doctors/ahmed.jpg"},
-    {"name": "Dr. Sana Malik", "dept": "Neurology", "days": "Tue, Thu, Sat", "time": "10:00 AM - 4:00 PM", "fee": 2500, "exp": "14 years", "img": "assets/doctors/sana.jpg"},
-    {"name": "Dr. Bilal Raza", "dept": "Orthopedics", "days": "Mon, Tue, Thu", "time": "8:00 AM - 1:00 PM", "fee": 1800, "exp": "12 years", "img": "assets/doctors/bilal.jpg"},
+    {"name": "Dr. Sana Malik", "dept": "Neurology", "days": "Tue, Thu, Sat", "time": "10:00 AM - 4:00 PM", "fee": 2500, "exp": "14 years", "img": "assets/doctors/saniah.jpg"},
+    {"name": "Dr. Bilal Raza", "dept": "Orthopedics", "days": "Mon, Tue, Thu", "time": "8:00 AM - 1:00 PM", "fee": 1800, "exp": "12 years", "img": "assets/doctors/hammad.jpg"},
     {"name": "Dr. Hina Shah", "dept": "Pediatrics", "days": "Mon - Fri", "time": "9:00 AM - 3:00 PM", "fee": 1500, "exp": "10 years", "img": "assets/doctors/hina.jpg"},
     {"name": "Dr. Ayesha Siddiqui","dept": "Gynecology", "days": "Wed, Fri, Sat", "time": "11:00 AM - 5:00 PM", "fee": 2200, "exp": "16 years", "img": "assets/doctors/ayesha.jpg"},
     {"name": "Dr. Usman Tariq", "dept": "Emergency", "days": "All Days (24/7)", "time": "Round the Clock", "fee": 1000, "exp": "15 years", "img": "assets/doctors/usman.jpg"},
-    {"name": "Dr. Fatima Noor", "dept": "Dermatology", "days": "Tue, Wed, Sat", "time": "10:00 AM - 3:00 PM", "fee": 1700, "exp": "9 years", "img": "assets/doctors/fatima.jpg"},
+    {"name": "Dr. Fatima Noor", "dept": "Dermatology", "days": "Tue, Wed, Sat", "time": "10:00 AM - 3:00 PM", "fee": 1700, "exp": "9 years", "img": "assets/doctors/saliha.jpg"},
     {"name": "Dr. Kamran Ali", "dept": "ENT", "days": "Mon, Thu, Fri", "time": "9:30 AM - 2:30 PM", "fee": 1600, "exp": "11 years", "img": "assets/doctors/kamran.jpg"},
     {"name": "Dr. Zara Sheikh", "dept": "Oncology", "days": "Tue, Fri", "time": "12:00 PM - 5:00 PM", "fee": 3000, "exp": "20 years", "img": "assets/doctors/zara.jpg"},
-    {"name": "Dr. Imran Qureshi", "dept": "Radiology", "days": "Mon - Sat", "time": "8:00 AM - 8:00 PM", "fee": 1200, "exp": "13 years", "img": "assets/doctors/imran.jpg"},
+    {"name": "Dr. Imran Qureshi", "dept": "Radiology", "days": "Mon - Sat", "time": "8:00 AM - 8:00 PM", "fee": 1200, "exp": "13 years", "img": "assets/doctors/abid.jpg"},
 ]
 
 SERVICES = {
