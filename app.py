@@ -447,15 +447,15 @@ DEPARTMENTS = {
 
 DOCTORS = [
     {"name": "Dr. Ahmed Khan", "dept": "Cardiology", "days": "Mon, Wed, Fri", "time": "9:00 AM - 2:00 PM", "fee": 2000, "exp": "18 years", "img": "assets/doctors/ahmed.jpg"},
-    {"name": "Dr. Sana Malik", "dept": "Neurology", "days": "Tue, Thu, Sat", "time": "10:00 AM - 4:00 PM", "fee": 2500, "exp": "14 years", "img": "assets/doctors/saniah.jpg"},
-    {"name": "Dr. Bilal Raza", "dept": "Orthopedics", "days": "Mon, Tue, Thu", "time": "8:00 AM - 1:00 PM", "fee": 1800, "exp": "12 years", "img": "assets/doctors/hammad.jpg"},
+    {"name": "Dr. Saniah Malik", "dept": "Neurology", "days": "Tue, Thu, Sat", "time": "10:00 AM - 4:00 PM", "fee": 2500, "exp": "14 years", "img": "assets/doctors/saniah.jpg"},
+    {"name": "Dr. Hammad Arain", "dept": "Orthopedics", "days": "Mon, Tue, Thu", "time": "8:00 AM - 1:00 PM", "fee": 1800, "exp": "12 years", "img": "assets/doctors/hammad.jpg"},
     {"name": "Dr. Hina Shah", "dept": "Pediatrics", "days": "Mon - Fri", "time": "9:00 AM - 3:00 PM", "fee": 1500, "exp": "10 years", "img": "assets/doctors/hina.jpg"},
     {"name": "Dr. Ayesha Siddiqui","dept": "Gynecology", "days": "Wed, Fri, Sat", "time": "11:00 AM - 5:00 PM", "fee": 2200, "exp": "16 years", "img": "assets/doctors/ayesha.jpg"},
     {"name": "Dr. Usman Tariq", "dept": "Emergency", "days": "All Days (24/7)", "time": "Round the Clock", "fee": 1000, "exp": "15 years", "img": "assets/doctors/usman.jpg"},
-    {"name": "Dr. Fatima Noor", "dept": "Dermatology", "days": "Tue, Wed, Sat", "time": "10:00 AM - 3:00 PM", "fee": 1700, "exp": "9 years", "img": "assets/doctors/saliha.jpg"},
+    {"name": "Dr. Saliha Tabasum", "dept": "Dermatology", "days": "Tue, Wed, Sat", "time": "10:00 AM - 3:00 PM", "fee": 1700, "exp": "9 years", "img": "assets/doctors/saliha.jpg"},
     {"name": "Dr. Kamran Ali", "dept": "ENT", "days": "Mon, Thu, Fri", "time": "9:30 AM - 2:30 PM", "fee": 1600, "exp": "11 years", "img": "assets/doctors/kamran.jpg"},
     {"name": "Dr. Zara Sheikh", "dept": "Oncology", "days": "Tue, Fri", "time": "12:00 PM - 5:00 PM", "fee": 3000, "exp": "20 years", "img": "assets/doctors/zara.jpg"},
-    {"name": "Dr. Imran Qureshi", "dept": "Radiology", "days": "Mon - Sat", "time": "8:00 AM - 8:00 PM", "fee": 1200, "exp": "13 years", "img": "assets/doctors/abid.jpg"},
+    {"name": "Dr. Abid Nawaz", "dept": "Radiology", "days": "Mon - Sat", "time": "8:00 AM - 8:00 PM", "fee": 1200, "exp": "13 years", "img": "assets/doctors/abid.jpg"},
 ]
 
 SERVICES = {
